@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="poc.shruti.test.AutomationTest" duration-ms="14636" started-at="2021-06-10T12:37:03 IST" finished-at="2021-06-10T12:37:18 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="14636" started-at="2021-06-10T12:37:03 IST" finished-at="2021-06-10T12:37:18 IST">
+      <class name="poc.shruti.test.AutomationTest">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:poc.shruti.test.AutomationTest@78e67e0a]" name="testLogin" duration-ms="14599" started-at="2021-06-10T12:37:03 IST" finished-at="2021-06-10T12:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- poc.shruti.test.AutomationTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- poc.shruti.test.AutomationTest -->
+</testng-results>
